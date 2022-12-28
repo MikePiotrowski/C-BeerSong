@@ -1,0 +1,15 @@
+C:\Users\Fireloks\source\repos\BeerSong\BeerSong\bin\Debug\net6.0\BeerSong.exe
+C:\Users\Fireloks\source\repos\BeerSong\BeerSong\bin\Debug\net6.0\BeerSong.deps.json
+C:\Users\Fireloks\source\repos\BeerSong\BeerSong\bin\Debug\net6.0\BeerSong.runtimeconfig.json
+C:\Users\Fireloks\source\repos\BeerSong\BeerSong\bin\Debug\net6.0\BeerSong.dll
+C:\Users\Fireloks\source\repos\BeerSong\BeerSong\bin\Debug\net6.0\BeerSong.pdb
+C:\Users\Fireloks\source\repos\BeerSong\BeerSong\obj\Debug\net6.0\BeerSong.csproj.AssemblyReference.cache
+C:\Users\Fireloks\source\repos\BeerSong\BeerSong\obj\Debug\net6.0\BeerSong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fireloks\source\repos\BeerSong\BeerSong\obj\Debug\net6.0\BeerSong.AssemblyInfoInputs.cache
+C:\Users\Fireloks\source\repos\BeerSong\BeerSong\obj\Debug\net6.0\BeerSong.AssemblyInfo.cs
+C:\Users\Fireloks\source\repos\BeerSong\BeerSong\obj\Debug\net6.0\BeerSong.csproj.CoreCompileInputs.cache
+C:\Users\Fireloks\source\repos\BeerSong\BeerSong\obj\Debug\net6.0\BeerSong.dll
+C:\Users\Fireloks\source\repos\BeerSong\BeerSong\obj\Debug\net6.0\refint\BeerSong.dll
+C:\Users\Fireloks\source\repos\BeerSong\BeerSong\obj\Debug\net6.0\BeerSong.pdb
+C:\Users\Fireloks\source\repos\BeerSong\BeerSong\obj\Debug\net6.0\BeerSong.genruntimeconfig.cache
+C:\Users\Fireloks\source\repos\BeerSong\BeerSong\obj\Debug\net6.0\ref\BeerSong.dll

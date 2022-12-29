@@ -16,7 +16,7 @@ public class BeerSong
 
         Action<int> printSong = numOfBeers => {
 
-            Console.ForegroundColor = ConsoleColor.Green; // All text will be in green.
+            Console.ForegroundColor = ConsoleColor.Green; // All text will be in Green.
             string bottlePluralization = (numOfBeers == 1) ? "bottle" : "bottles";
             string song = numOfBeers + " " + bottlePluralization + " of beer on the wall, "
                          + numOfBeers + " " + bottlePluralization + " of beer.\n"

@@ -28,6 +28,7 @@ public class BeerSong
         for (int numOfBeers = 99; numOfBeers > 0; numOfBeers--)
         {
             printSong(numOfBeers);
+            Thread.sleep(4000); // Pause for seconds after every numbered bottle of beer.
         }
     }
 }

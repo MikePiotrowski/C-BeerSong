@@ -38,7 +38,7 @@ public class BeerSong
         {
             printSong(numOfBeers);
             Thread.Sleep(4000); // Pause for 4 seconds between each bottle of beer.
-             Console.ResetColor();
+            Console.ResetColor();
         }
     }
 }

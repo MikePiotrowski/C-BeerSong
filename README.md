@@ -6,5 +6,6 @@ This will eventually be ported over to the MonoGame Framework, with the text in 
 Look for a release in early 2023.
 
 Below is an image of what the output looks like: 
+It will count it down from 99 to 1.
 
 <img src="https://github.com/MikePiotrowski/C-BeerSong/blob/main/BeerSong.png?raw=true">

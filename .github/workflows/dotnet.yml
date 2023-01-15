@@ -1,0 +1,28 @@
+# This workflow will build a .NET project
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-net
+
+name: C-BeerSong
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3.C-BeerSong/blob/main/BeerSong/BeerSong.sln
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: 6.0.x
+    - name: Restore dependencies
+      run: dotnet restore .C-BeerSong/blob/main/BeerSong/BeerSong.sln
+    - name: Build
+      run: dotnet build .C-BeerSong/blob/main/BeerSong/BeerSong.sln --no-restore
+    - name: Test 
+      run: dotnet test  .C-BeerSong/blob/main/BeerSong/BeerSong.csproj --no-build --verbosity normal

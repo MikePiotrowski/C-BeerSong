@@ -23,6 +23,6 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore .C-BeerSong/blob/main/BeerSong/BeerSong.sln
     - name: Build
-      run: dotnet build .C-BeerSong/blob/main/BeerSong/BeerSong.sln --no-restore
+      run: dotnet build .MikePiotrowski/C-BeerSong/blob/main/BeerSong/BeerSong.sln --no-restore
     - name: Test 
       run: dotnet test  .C-BeerSong/blob/main/BeerSong/BeerSong.csproj --no-build --verbosity normal

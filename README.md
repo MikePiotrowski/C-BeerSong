@@ -10,4 +10,4 @@ It will count it down from 99 to 1. And then finally to no bottles of beer.
 
 <img src="https://github.com/MikePiotrowski/C-BeerSong/blob/main/BeerSong.png?raw=true">
 
-03-16-2023 Back to work on coding this project
+08-07-2023 Back to work on coding this project
